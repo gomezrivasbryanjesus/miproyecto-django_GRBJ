@@ -1,4 +1,4 @@
-# Proyecto Django — [Tus Nombres y Apellidos]
+# Proyecto Django — Bryan Jesus Gomez Rivas
 
 ## Cómo correrlo localmente
 1. Crear y activar un entorno virtual
